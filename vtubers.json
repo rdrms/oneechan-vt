@@ -1,0 +1,424 @@
+{
+  "Mascots": [
+    {
+      "img": "https://u.teknik.io/c92Mb.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 30,
+      "name": "Miko",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/ObCUM.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -30,
+      "name": "Gura1",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/sMCXO.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Gura2",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/OJV46.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "FBK",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/u7mV7.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Ame",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/AHPsj.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -40,
+      "name": "Ollie2",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/2BymK.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -50,
+      "name": "FBK2",
+      "width": "500px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/8yGIM.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -100,
+      "name": "Okayu",
+      "width": "500px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/BfEjr.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -350,
+      "name": "Mumei1",
+      "width": "auto",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/dXGlB.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -350,
+      "name": "Mumei2",
+      "width": "auto",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/qhdxB.gif",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "mumeiborger",
+      "width": "auto",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/wlbFO.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Marine1",
+      "width": "300px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/mnRTp.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Rushia",
+      "width": "300px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/cPJJQ.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -100,
+      "name": "Gura3",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/zWTCs.png",
+      "flip": true,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -50,
+      "name": "Ina2",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/nCDYf.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -100,
+      "name": "Laplus",
+      "width": "500px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/HHMia.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -70,
+      "name": "okayu 2",
+      "width": "450px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/wJvxI.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -70,
+      "name": "Shion nakadashi",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/ZKYQF.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Anya",
+      "width": "330px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/vJxIz.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -30,
+      "name": "gura 4",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/h5ECP.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -40,
+      "name": "Aqua 3",
+      "width": "350px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/Rv3Tq.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -40,
+      "name": "Kanata",
+      "width": "420px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/vHosG.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "gura 5",
+      "width": "370px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/ilFYw.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -30,
+      "name": "Gura 6",
+      "width": "350px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/ftJp9.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -10,
+      "name": "Gura 7",
+      "width": "350px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/A2m03.png",
+      "flip": true,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -15,
+      "name": "Chinese Girl Cartoon",
+      "width": "350px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/nJawg.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -60,
+      "name": "Korone 2",
+      "width": "auto",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/LZa2Y.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -70,
+      "name": "Korona 3 ",
+      "width": "auto",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/UDUGw.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -35,
+      "name": "The Clown",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/Y1yZb.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -60,
+      "name": "Marine2",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/R0Thi.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Gura 5",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/Y3pff.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -80,
+      "name": "Gura4",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/gfcFI.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -40,
+      "name": "Aquakin1",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/eEWSg.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -59,
+      "name": "Shion1",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/jTf9b.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -100,
+      "name": "Pekora2",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/ePHnr.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": -300,
+      "hoffset": -120,
+      "name": "Aquakin2",
+      "width": "500px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/EuNqW.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -30,
+      "name": "Amelia2",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/jVYtP.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Shion2",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/ObBqS.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -30,
+      "name": "Ollie3",
+      "width": "400px",
+      "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/47KZF.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -50,
+      "name": "Ollie 1",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/xKYt0.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": -20,
+      "hoffset": -30,
+      "name": "Pekora1",
+      "width": "auto",
+      "height": "500px"
+    },
+    {
+      "img": "https://u.teknik.io/PQmVv.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -20,
+      "name": "Korone",
+      "width": "auto",
+      "height": "500px"
+    }
+  ]
+}
