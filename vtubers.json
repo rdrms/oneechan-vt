@@ -420,5 +420,15 @@
       "width": "auto",
       "height": "500px"
     }
+    {
+      "img": "https://u.teknik.io/u5TCs.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -70,
+      "name": "Miko 2",
+      "width": "400px",
+      "height": "auto"
+    }
   ]
 }
