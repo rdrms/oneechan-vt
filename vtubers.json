@@ -430,5 +430,15 @@
       "width": "400px",
       "height": "auto"
     }
+    {
+      "img": "https://u.teknik.io/eHrjF.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -75,
+      "name": "Gura 8",
+      "width": "400px",
+      "height": "auto"
+    }
   ]
 }
