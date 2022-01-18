@@ -439,6 +439,16 @@
       "name": "Gura 8",
       "width": "400px",
       "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/utmD3.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": -50,
+      "name": "Botan",
+      "width": "450px",
+      "height": "auto"
     }
   ]
 }
