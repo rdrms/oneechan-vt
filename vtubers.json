@@ -449,6 +449,16 @@
       "name": "Botan",
       "width": "450px",
       "height": "auto"
+    },
+    {
+      "img": "https://u.teknik.io/0W9jB.png",
+      "flip": false,
+      "maxwidth": false,
+      "offset": 0,
+      "hoffset": 0,
+      "name": "Bae",
+      "width": "350px",
+      "height": "auto"
     }
   ]
 }
